@@ -1,4 +1,4 @@
-[![API](https://scan.apitool.io/img/logo.82d60c32.png)](http://mingwei1.cwnic.cn/index.html)
+[![API](http://mingwei1.cwnic.cn/style/picture/jsjglogo.png)](http://mingwei1.cwnic.cn/index.html)
 
 ## Installation
 ### Client Node
